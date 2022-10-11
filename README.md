@@ -8,6 +8,8 @@ This repository contains project files and details from Udacity's Machine Learni
   Confusion matrix, F1 score, F-beta score, ROC curve
 - **Model selection**  
   Types of errors, various types of cross validation, learning curves, grid search
+- **Project**  
+  **[Predicting Boston Housing Prices](https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/boston_housing)**
 
 ### 2. SUPERVISED LEARNING
 
@@ -19,6 +21,8 @@ This repository contains project files and details from Udacity's Machine Learni
   Prior probability, posterior probability, naive bayes
 - **Support vector machines**  
   Idea, different types of errors, basic working principle, etc.
+- **Project**
+  **[Finding Donors for CharityML](https://github.com/daamix/udacity-machine-learning-nanodegere/tree/master/projects/finding_donors)**
 
 ### 3. UNSUPERVISED LEARNING
 
@@ -32,6 +36,8 @@ This repository contains project files and details from Udacity's Machine Learni
 - **PCA**  
 - **Random projection and ICA**  
   Johnson-Lindenstrauss lemma, ICA, applications
+- **Project**
+  **[Creating Customer Segments](https://github.com/davaix/udacity-machine-learning-nanodegere/tree/master/projects/customer_segments)**
 
 ### 4. DEEP LEARNING
 
@@ -41,13 +47,11 @@ This repository contains project files and details from Udacity's Machine Learni
   Regularization, dropout, vanishing gradients and activation function, momentum, keras optimisers
 - **Convolutional neural networks**  
   Model validation, image augmentation
+- **Project**
+  **[Dog Breed Classifier](https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/dog-project)**
 
-### 5. PROJECTS
+### 5. CAPSTONE PROJECTS
 
-- **[Predicting Boston Housing Prices](https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/boston_housing)**
-- **[Finding Donors for CharityML](https://github.com/daamix/udacity-machine-learning-nanodegere/tree/master/projects/finding_donors)**
-- **[Creating Customer Segments](https://github.com/davaix/udacity-machine-learning-nanodegere/tree/master/projects/customer_segments)**
-- **[Dog Breed Classifier](https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/dog-project)**
 
 
 
