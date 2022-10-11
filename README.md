@@ -22,7 +22,7 @@ This repository contains project files and details from Udacity's Machine Learni
 - **Support vector machines**  
   Idea, different types of errors, basic working principle, etc.
 - **Project**  
-  **[Finding Donors for CharityML](https://github.com/daamix/udacity-machine-learning-nanodegere/tree/master/projects/finding_donors)**
+  **[Finding Donors for CharityML](https://github.com/Bhardwaj-Saurabh/Udacity_Machine_Learning_Engineer_NanoDegree/tree/main/projects/finding_donors)**
 
 ### 3. UNSUPERVISED LEARNING
 
