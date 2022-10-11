@@ -37,7 +37,7 @@ This repository contains project files and details from Udacity's Machine Learni
 - **Random projection and ICA**  
   Johnson-Lindenstrauss lemma, ICA, applications
 - **Project**  
-  **[Creating Customer Segments](https://github.com/davaix/udacity-machine-learning-nanodegere/tree/master/projects/customer_segments)**
+  **[Creating Customer Segments](https://github.com/Bhardwaj-Saurabh/Udacity_Machine_Learning_Engineer_NanoDegree/tree/main/projects/customer_segments)**
 
 ### 4. DEEP LEARNING
 
