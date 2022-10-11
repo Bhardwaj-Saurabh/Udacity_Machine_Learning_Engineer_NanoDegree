@@ -44,10 +44,10 @@ This repository contains project files and details from Udacity's Machine Learni
 
 ### 5. PROJECTS
 
-- **[Predicting Boston Housing Prices]**(https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/boston_housing)
-- **[Finding Donors for CharityML]**(https://github.com/daamix/udacity-machine-learning-nanodegere/tree/master/projects/finding_donors)
-- **[Creating Customer Segments]**(https://github.com/davaix/udacity-machine-learning-nanodegere/tree/master/projects/customer_segments)
-- **[Dog Breed Classifier]**(https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/dog-project)
+- **[Predicting Boston Housing Prices](https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/boston_housing)**
+- **[Finding Donors for CharityML](https://github.com/daamix/udacity-machine-learning-nanodegere/tree/master/projects/finding_donors)**
+- **[Creating Customer Segments](https://github.com/davaix/udacity-machine-learning-nanodegere/tree/master/projects/customer_segments)**
+- **[Dog Breed Classifier](https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/dog-project)**
 
 
 
