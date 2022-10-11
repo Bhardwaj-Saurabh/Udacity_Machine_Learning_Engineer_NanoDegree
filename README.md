@@ -2,14 +2,14 @@
 
 This repository contains project files and details from Udacity's Machine Learning Engineer Nanodegree program. Following topics are covered in this nano degree. The details of the projects are provided in the project section of this report. 
 
-### 1. Model evaluation and validation
+### 1. MODEL EVALUATION AND VALIDATION
 
 - **Model Evaluation**  
   Confusion matrix, F1 score, F-beta score, ROC curve
 - **Model selection**  
   Types of errors, various types of cross validation, learning curves, grid search
 
-### 2. Supervised learning
+### 2. SUPERVISED LEARNING
 
 - **Linear regression**  
   Absolute trick, advantages / disadvantages, L1 regularisation, L2 regularisation
@@ -20,7 +20,7 @@ This repository contains project files and details from Udacity's Machine Learni
 - **Support vector machines**  
   Idea, different types of errors, basic working principle, etc.
 
-### 3. Unsupervised learning
+### 3. UNSUPERVISED LEARNING
 
 - **Clustering**  
   K-means clustering
@@ -33,7 +33,7 @@ This repository contains project files and details from Udacity's Machine Learni
 - **Random projection and ICA**  
   Johnson-Lindenstrauss lemma, ICA, applications
 
-### Deep learning
+### 4. DEEP LEARNING
 
 - **Neuronal networks**  
   Perceptron trick, perceptron algorithm, sigmoid activation, maximum likelihood, cross entropy, logistic regression, perceptron and gradient descent
@@ -42,7 +42,7 @@ This repository contains project files and details from Udacity's Machine Learni
 - **Convolutional neural networks**  
   Model validation, image augmentation
 
-### PROJECTS
+### 5. PROJECTS
 
 - **[Predicting Boston Housing Prices]**(https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/boston_housing)
 - **[Finding Donors for CharityML]**(https://github.com/daamix/udacity-machine-learning-nanodegere/tree/master/projects/finding_donors)
