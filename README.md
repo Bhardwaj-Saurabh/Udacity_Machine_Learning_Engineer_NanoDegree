@@ -8,6 +8,7 @@ This repository contains project files and details from Udacity's Machine Learni
   Confusion matrix, F1 score, F-beta score, ROC curve
 - **Model selection**  
   Types of errors, various types of cross validation, learning curves, grid search
+  
 - **Project**  
   **[Predicting Boston Housing Prices](https://github.com/Bhardwaj-Saurabh/Udacity_Machine_Learning_Engineer_NanoDegree/tree/main/projects/boston_housing)**
 
@@ -21,6 +22,7 @@ This repository contains project files and details from Udacity's Machine Learni
   Prior probability, posterior probability, naive bayes
 - **Support vector machines**  
   Idea, different types of errors, basic working principle, etc.
+  
 - **Project**  
   **[Finding Donors for CharityML](https://github.com/Bhardwaj-Saurabh/Udacity_Machine_Learning_Engineer_NanoDegree/tree/main/projects/finding_donors)**
 
@@ -36,6 +38,7 @@ This repository contains project files and details from Udacity's Machine Learni
 - **PCA**  
 - **Random projection and ICA**  
   Johnson-Lindenstrauss lemma, ICA, applications
+  
 - **Project**  
   **[Creating Customer Segments](https://github.com/Bhardwaj-Saurabh/Udacity_Machine_Learning_Engineer_NanoDegree/tree/main/projects/customer_segments)**
 
@@ -47,6 +50,7 @@ This repository contains project files and details from Udacity's Machine Learni
   Regularization, dropout, vanishing gradients and activation function, momentum, keras optimisers
 - **Convolutional neural networks**  
   Model validation, image augmentation
+  
 - **Project**   
   **[Dog Breed Classifier](https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/dog-project)**
 
