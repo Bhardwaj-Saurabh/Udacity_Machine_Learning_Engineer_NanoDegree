@@ -9,7 +9,7 @@ This repository contains project files and details from Udacity's Machine Learni
 - **Model selection**  
   Types of errors, various types of cross validation, learning curves, grid search
 - **Project**  
-  **[Predicting Boston Housing Prices](https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/boston_housing)**
+  **[Predicting Boston Housing Prices](https://github.com/Bhardwaj-Saurabh/Udacity_Machine_Learning_Engineer_NanoDegree/tree/main/projects/boston_housing)**
 
 ### 2. SUPERVISED LEARNING
 
