@@ -52,7 +52,7 @@ This repository contains project files and details from Udacity's Machine Learni
   Model validation, image augmentation
   
 - **Project - 4**   
-  **[Dog Breed Classifier](https://github.com/davmix/udacity-machine-learning-nanodegere/tree/master/projects/dog-project)**
+  **[Dog Breed Classifier](https://github.com/Bhardwaj-Saurabh/Udacity_Machine_Learning_Engineer_NanoDegree/blob/main/Labs/dog-project-master/dog_app.ipynb)**
 
 ### 5. CAPSTONE PROJECTS
   **[Data_science_project_students_performance_analysis](https://github.com/Bhardwaj-Saurabh/Udacity_Machine_Learning_Engineer_NanoDegree/blob/main/projects/capstone/Data_science_project_students_performance_analysis.ipynb)**
